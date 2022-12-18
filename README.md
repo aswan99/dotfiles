@@ -1,2 +1,2 @@
 # dotfiles
-nixos configs and others (still unfinished)
+basic nixos configs and others (still working on it)
